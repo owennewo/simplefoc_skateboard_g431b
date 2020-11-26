@@ -4,8 +4,7 @@ I'm using this [b-g431b-esc1](https://www.st.com/en/evaluation-tools/b-g431b-esc
 
 This is the code that accompanies my 3hr code/build video.  It's not identical, it has more debug code and some motor calibration to help with different motors:
 
-[![3hr Electric Skate Code/Build with SimpleFOC](http://img.youtube.com/vi/BfrIjmR5qrM/0.jpg)]
-(https://youtu.be/BfrIjmR5qrM)
+[![3hr Electric Skate Code/Build with SimpleFOC](http://img.youtube.com/vi/BfrIjmR5qrM/0.jpg)](https://youtu.be/BfrIjmR5qrM)
 
 Please note that this board at time of writing needs a couple of Pull Requests to be approved to be 'easy' to use from platformio and Arduino IDE:
 
@@ -24,4 +23,4 @@ Some pics from the manual
 ![b-g431b-esc1 discovery-kit](./gifs/b-g431b-esc1-discovery-kit.png) ![b-g431b-esc1 drone x4](./gifs/b-g431b-esc1-drone_x4.png) ![b-g431b-esc1 hall sensors](./gifs/b-g431b-esc1-hall-sensor.png) ![b-g431b-esc1 pwm](./gifs/b-g431b-esc1-pwm.png) ![b-g431b-esc1 shunt and opamp](./gifs/b-g431b-esc1-shunt.png)
 
 ## Board with Duct tape
-[skate](./gifs/skate-static.jpg)
+![skate](./gifs/skate-static.jpg)
