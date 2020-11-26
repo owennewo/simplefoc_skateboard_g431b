@@ -15,3 +15,13 @@ https://github.com/platformio/platform-ststm32/pull/447 - this adds extra info r
 
 Of lesser importance - I managed to get breakpoint debugging to work for stm32g4 boards like this one, again this needs another PR to be approved before it becomes easy from platformio:
 https://sourceforge.net/p/openocd/code/merge-requests/16/
+
+## STM32 datasheet
+The stm32 user manual for this board is excellent:
+https://www.st.com/resource/en/user_manual/dm00564746-electronic-speed-controller-discovery-kit-for-drones-with-stm32g431cb-stmicroelectronics.pdf
+
+Some pics from the manual
+[b-g431b-esc1 discovery-kit](b-g431b-esc1-discovery-kit.png) [b-g431b-esc1 drone x4](b-g431b-esc1-drone_x4.png) [b-g431b-esc1 hall sensors](b-g431b-esc1-hall-sensor.png) [b-g431b-esc1 pwm](b-g431b-esc1-pwm.png) [b-g431b-esc1 shunt and opamp](b-g431b-esc1-shunt.png)
+
+## Board with Duct tape
+[skate](skate-static.jpg)
